@@ -1,3 +1,5 @@
 Git ten yazdim
 
 Github dan yazdim
+
+Githubdan yeni bir fonksiyon
